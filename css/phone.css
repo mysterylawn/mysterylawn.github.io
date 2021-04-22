@@ -1,7 +1,6 @@
-/*PHONE FORMATTING*/
+  /*PHONE FORMATTING*/
 .zoom {
   font-size: 30px;
-  top: 300px;
   width: 120px;
   height: 48px;
   color: blue;
@@ -10,11 +9,19 @@
   transform: scale(1.13);
 }
 #discord {
-  left: 6%
+  top: 300px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 #repo {
-  /*i dont really need this one here but whatever*/
+  top: 400px;
 }
 #tiktok {
-  right: 6%;
+  top: 500px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
 }

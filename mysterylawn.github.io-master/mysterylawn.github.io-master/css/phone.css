@@ -1,0 +1,20 @@
+/*PHONE FORMATTING*/
+.zoom {
+  font-size: 30px;
+  top: 300px;
+  width: 120px;
+  height: 48px;
+  color: blue;
+}
+.zoom:hover {
+  transform: scale(1.13);
+}
+#discord {
+  left: 6%
+}
+#repo {
+  /*i dont really need this one here but whatever*/
+}
+#tiktok {
+  right: 6%;
+}

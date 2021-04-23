@@ -1,13 +1,10 @@
   /* PHONE FORMATTING */
+  .zoom {
+    color: blue;
+  }
 h1 {
   font-size: 35px;
   height: 80px;
-}
-.zoom {
-  font-size: 30px;
-  width: 120px;
-  height: 48px;
-  color: blue;
 }
 .zoom:hover {
   transform: scale(1.13);

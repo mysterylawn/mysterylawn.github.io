@@ -1,4 +1,8 @@
-  /*PHONE FORMATTING*/
+  /* PHONE FORMATTING */
+h1 {
+  font-size: 35px;
+  height: 80px;
+}
 .zoom {
   font-size: 30px;
   width: 120px;
@@ -9,17 +13,14 @@
   transform: scale(1.13);
 }
 #discord {
-  top: 300px;
+  top: 200px;
   left: 0;
   right: 0;
   margin-left: auto;
   margin-right: auto;
 }
-#repo {
-  top: 400px;
-}
 #tiktok {
-  top: 500px;
+  top: 400px;
   left: 0;
   right: 0;
   margin-left: auto;

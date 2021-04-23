@@ -1,10 +1,10 @@
-  /* PHONE FORMATTING */
+/* PHONE FORMATTING */
 .zoom {
-    color: blue;
-  }
+  color: blue;
+}
   .zoom:hover {
-    transform: scale(1.13);
-  }
+  transform: scale(1.13);
+}
 h1 {
   font-size: 35px;
   height: 80px;

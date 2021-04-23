@@ -1,13 +1,13 @@
   /* PHONE FORMATTING */
-  .zoom {
+.zoom {
     color: blue;
+  }
+  .zoom:hover {
+    transform: scale(1.13);
   }
 h1 {
   font-size: 35px;
   height: 80px;
-}
-.zoom:hover {
-  transform: scale(1.13);
 }
 #discord {
   top: 200px;

@@ -18,19 +18,15 @@ h1 {
   padding-top: 45px;
 }
 h2 {
-  font-size: 25px;
+  font-size: 40px;
   font-weight: 500;
   font-family: arial;
   text-align: center;
-  text-decoration: underline;
 }
 p {
-  font-size: 20px;
-  font-weight: normal;
   font-family: arial;
-  text-indent: 30px;
-  margin-right: 10px;
-  margin-left: 10px;
+  font-size: 30px;
+  text-indent: 50px;
 }
 .zoom {
   font-size: 50px;
@@ -68,15 +64,20 @@ p {
   right:0;
   margin: auto;
 }
-#tiktok {
+#stack {
   background-color: orchid;
   right: 15%;
 }
 #aboutme {
-  font-family: arial;
-  font-size: 30px;
   background-color: #a899df;
-  text-indent: 50px;
   height: 100%;
   padding: 10px;
+}
+#animesmile {
+  position: absolute;
+  width: 15%;
+  top: 170%;
+  left: 0;
+  right: 0;
+  margin-left: 43%;
 }

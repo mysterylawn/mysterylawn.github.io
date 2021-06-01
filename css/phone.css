@@ -1,13 +1,16 @@
 /* PHONE FORMATTING */
-.zoom {
-  color: blue;
-}
-  .zoom:hover {
-  transform: scale(1.13);
-}
 h1 {
   font-size: 35px;
   height: 80px;
+}
+p {
+  font-size: 15px;
+}
+.zoom {
+  color: blue;
+}
+.zoom:hover {
+  transform: scale(1.13);
 }
 #discord {
   top: 200px;
@@ -16,13 +19,13 @@ h1 {
   margin-left: auto;
   margin-right: auto;
 }
-#tiktok {
+#stack {
   top: 400px;
   left: 0;
   right: 0;
   margin-left: auto;
   margin-right: auto;
 }
-#aboutme {
-  font-size: 20px;
+#animesmile {
+  width: 20%;
 }
